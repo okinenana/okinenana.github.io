@@ -7,9 +7,9 @@ body {
     overflow: hidden;
 }
 
-.rectangle {
-    height: 570px;
-    width: 500px;
+.rectangle { 
+    height: 540px;
+    width: 490px;
     background: rgba(44, 41, 41, 0.764);
     border-radius: 60px;
     box-shadow: 10px 10px 10px white;
